@@ -1,0 +1,17 @@
+pandoc: 2.16.2
+pkgdown: 2.0.2
+pkgdown_sha: ~
+articles:
+  accumulated_cyclone_energy: accumulated_cyclone_energy.html
+  forecast_advisory: forecast_advisory.html
+  getting_started: getting_started.html
+  gis_data: gis_data.html
+  installing_rrricanesdata: installing_rrricanesdata.html
+  probabilistic_storm_surge: probabilistic_storm_surge.html
+  wind_pressure: wind_pressure.html
+  wind_speed_probabilities: wind_speed_probabilities.html
+last_built: 2022-04-13T02:42Z
+urls:
+  reference: https://docs.ropensci.org/rrricanes/reference
+  article: https://docs.ropensci.org/rrricanes/articles
+

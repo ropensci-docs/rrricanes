@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d830ff65dbd210286ae68e39f0d62c2572204882",
+    "author": "Elin Waring <elin.waring@gmail.com>",
+    "time": "2022-04-13 01:58:23",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #167 from GOAM001/good_practice\n\ngood practice simplifying redundant code"
+  },
+  "repo": "https://github.com/ropensci/rrricanes",
+  "pkg": "rrricanes"
+}
